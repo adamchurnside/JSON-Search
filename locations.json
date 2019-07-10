@@ -1,0 +1,434 @@
+﻿{
+  "locations": [
+    {
+      "title": "Anderson Field",
+      "description": "Field reserved for: <ul><li><a href='http://fullertontitans.com/sports/w-softbl/index' target='_blank'>Titan Softball</a></li></ul>",
+      "image": "http://www.fullerton.edu/campusmap/_resources/images/anderson-field.jpg",
+      "imageAlt": "Anderson Field",
+      "center": {
+        "lat": 33.885953,
+        "lng": -117.884999
+      },
+      "radius": 30
+    },
+    {
+      "title": "Bookstore/Titan Shops",
+      "description": "<p>657-278-3418</p><p><a href='http://www.titanbookstore.com' target='_blank'>titanbookstore.com</a></p>",
+      "image": "http://www.fullerton.edu/campusmap/_resources/images/titan-shop.jpg",
+      "imageAlt": "Bookstore/Titan Shops",
+      "center": {
+        "lat": 33.8818828,
+        "lng": -117.8868917
+      },
+      "radius": 20
+    },
+    {
+      "title": "Becker Amphitheater",
+      "description": "",
+      "image": "http://www.fullerton.edu/campusmap/_resources/images/Becker.jpg",
+      "imageAlt": "Becker Amphitheater",
+      "center": {
+        "lat": 33.8812487,
+        "lng": -117.8870974
+      },
+      "radius": 20
+    },
+    {
+      "title": "Children's Center",
+      "description": "<p>Phone: 657-278-2961</p><p><a href='http://asi.fullerton.edu/cc/' target='_blank'>http://asi.fullerton.edu/cc/</a></p>",
+      "image": "http://www.fullerton.edu/campusmap/_resources/images/childrens-center.jpg",
+      "imageAlt": "Children's Center",
+      "center": {
+        "lat": 33.88581,
+        "lng": -117.888142
+      },
+      "radius": 50
+    },
+
+    {
+      "title": "College Park",
+      "description": "<p>Located in this building:</p><ul><li><a href='http://vpadmin.fullerton.edu/' target='_blank'>Administration and Finance</a></li><li><a href='http://alp.fullerton.edu/' target='_blank'>American Language Program</a></li>                               <li><a href='http://communications.fullerton.edu' target='_blank'>College of Communications</a></li><li><a href='http://ed.fullerton.edu' target='_blank'>College of Education</a></li><li><a href='http://extension.fullerton.edu/' target='_blank'>Extended Education</a></li><li><a href='http://hr.fullerton.edu/' target='_blank'>Human Resources, Diversity and Inclusion</a></li><li><a href='http://president.fullerton.edu' target='_blank'>President's Office</a></li><li><a href='http://www.fullerton.edu/acadaffairs/' target='_blank'>Provost's Office</a></li><li><a href='http://www.fullerton.edu/advancement' target='_blank'>University Advancement</a></li></ul>",
+      "image": "http://www.fullerton.edu/campusmap/_resources/images/college-park.jpg",
+      "imageAlt": "College Park",
+      "center": {
+        "lat": 33.8776254,
+        "lng": -117.8833989
+      },
+      "radius": 30
+    },
+
+    {
+      "title": "Clayes Performing Arts Center",
+      "description": "<p>Located in this building:</p><ul><li>Meng Hall</li><li>Jim Young Theatre</li><li>Box Office</li><li><a href='http://www.fullerton.edu/arts' target='_blank'>College of the Arts</a></li><li>School of Music</li><li>Theatre and Dance Department</li></ul>",
+      "image": "http://www.fullerton.edu/campusmap/_resources/images/PAC.jpg",
+      "imageAlt": "Clayes Performing Arts Center",
+      "center": {
+        "lat": 33.8805593,
+        "lng": -117.8864844
+      },
+      "radius": 60
+    },
+
+    {
+      "title": "Corporatation Yard",
+      "description": "<p>Located on this grounds:</p><ul><li>Receiving</li></ul>",
+      "image": "",
+      "imageAlt": "",
+      "center": {
+        "lat": 33.884094,
+        "lng": -117.889089
+      },
+      "radius": 20
+    },
+
+    {
+      "title": "Computer Science",
+      "description": "<p>Located in this building:</p><ul><li><a href='http://www.fullerton.edu/ecs/' target='_blank'>College of Engineering and Computer Science</a></li><li>Computer Science Department</li><li>Computer Engineering Department</li><li><a href='http://fullerton.edu/academicservices/casecs.htm' target='_blank'>Center for Academic Support in Engineering and Computer Science</a></li></ul>",
+      "image": "http://www.fullerton.edu/campusmap/_resources/images/ECS.jpg",
+      "imageAlt": "Computer Science",
+      "center": {
+        "lat": 33.882319,
+        "lng": -117.882654
+      },
+      "radius": 20
+    },
+
+    {
+      "title": "Dan Black Hall",
+      "description": "<p>Located in this building:</p><ul><li><a href='http://nsm.fullerton.edu/' target='_blank'>College of Natural Sciences and Mathematics</a></li></ul>",
+      "image": "http://www.fullerton.edu/campusmap/_resources/images/black-hall.jpg",
+      "imageAlt": "Dan Black Hall",
+      "center": {
+        "lat": 33.8791674,
+        "lng": -117.8858328
+      },
+      "radius": 25
+    },
+
+    {
+      "title": "Engineering",
+      "description": "<p>Located in this building:</p><ul><li><a href='http://www.fullerton.edu/ecs/' target='_blank'>College of Engineering and Computer Science</a></li><li>Civil Engineering Department</li><li>Electrical Engineering Department</li></ul>",
+      "image": "http://www.fullerton.edu/campusmap/_resources/images/ECS.jpg",
+      "imageAlt": "Engineering",
+      "center": {
+        "lat": 33.8827168,
+        "lng": -117.8832391
+      },
+      "radius": 20
+    },
+
+    {
+      "title": "Education-Classroom",
+      "description": "<p>Located in this building:</p><ul><li><a href='http://hhd.fullerton.edu/' target='_blank'>College of Health and Human Development</a></li><li><a href='http://nursing.fullerton.edu/' target='_blank'>School of Nursing</a></li></ul>",
+      "image": "http://www.fullerton.edu/campusmap/_resources/images/education-classroom.jpg",
+      "imageAlt": "Education-Classroom",
+      "center": {
+        "lat": 33.8813006,
+        "lng": -117.8843522
+      },
+      "radius": 20
+    },
+
+
+    {
+      "title": "Golleher Alumni House",
+      "description": "<p>Located in this building:</p><ul><li><a href='http://www.fullerton.edu/alumni' target='_blank'>Alumni Association</a></li></ul>",
+      "image": "http://www.fullerton.edu/campusmap/_resources/images/golleher.jpg",
+      "imageAlt": "Golleher Alumni House",
+      "center": {
+        "lat": 33.882359,
+        "lng": -117.889349
+      },
+      "radius": 20
+    },
+
+    {
+      "title": "Goodwin Field",
+      "description": "<p>Field reserved for:</p><ul><li><a href='http://fullertontitans.com/sports/m-basebl/index' target='_blank'>Titan Baseball</a></li></ul>",
+      "image": "http://www.fullerton.edu/campusmap/_resources/images/goodwin-field.jpg",
+      "imageAlt": "Goodwin Field",
+      "center": {
+        "lat": 33.8872549,
+        "lng": -117.8852605
+      },
+      "radius": 60
+    },
+
+    {
+      "title": "Humanities-Social Sciences",
+      "description": "<p>Located in this building:</p><ul><li><a href='http://hss.fullerton.edu/' target='_blank'>College of Humanities and Social Sciences</a></li><li><a href='http://www.fullerton.edu/aarc/' target='_blank'>African American Resource Center</a></li></ul>",
+      "image": "http://www.fullerton.edu/campusmap/_resources/images/humanities.jpg",
+      "imageAlt": "Humanities-Social Sciences",
+      "center": {
+        "lat": 33.8805185,
+        "lng": -117.8841735
+      },
+      "radius": 20
+    },
+
+    {
+      "title": "Kinesiology and Health Science",
+      "description": "<p>Located in this building:</p><ul><li>Nursing Sim Lab</li><li><a href='http://motorbehaviorlab.wix.com/motorbehaviorlabcsuf' target='_blank'>Motor Behavior Lab</a></li></ul>",
+      "image": "http://www.fullerton.edu/campusmap/_resources/images/kinesiology.jpg",
+      "imageAlt": "Kinesiology and Health Science",
+      "center": {
+        "lat": 33.8827213,
+        "lng": -117.886152
+      },
+      "radius": 35
+    },
+
+    {
+      "title": "Langsdorf Hall",
+      "description": "<p>Located in this building:</p><ul><li><a href='http://www.fullerton.edu/it/' target='_blank'>Information Technology</a></li><li><a href='http://www.fullerton.edu/sa/' target='_blank'>Student Affairs</a></li><li><a href='http://campusapps2.fullerton.edu/Career' target='_blank'>Career Center</a></li><li><a href='http://www.fullerton.edu/cice' target='_blank'>Center for Internship and Community Engagement</a></li></ul>",
+      "image": "http://www.fullerton.edu/campusmap/_resources/images/langsdorf.jpg",
+      "imageAlt": "Langsdorf Hall",
+      "center": {
+        "lat": 33.8789513,
+        "lng": -117.8846714
+      },
+      "radius": 30
+    },
+
+    {
+      "title": "McCarthy Hall",
+      "description": "<p>Located in this building:</p><ul><!--<li><a href='http://www.fullerton.edu/acadaffairs/' target='_blank'>Academic Affairs</a></li>--><li><a href='http://nsm.fullerton.edu/' target='_blank'>College of Natural Sciences and Mathematics</a></li><!--<li><a href='http://www.fullerton.edu/far/' target='_blank'>Faculty Affairs and Records</a></li>--></ul>",
+      "image": "http://www.fullerton.edu/campusmap/_resources/images/mccarthy.jpg",
+      "imageAlt": "McCarthy Hall",
+      "center": {
+        "lat": 33.87966,
+        "lng": -117.88553
+      },
+      "radius": 25
+    },
+
+    {
+      "title": "Parking and Transportation Office",
+      "description": "<p>Phone: 657-278-3082</p><p><a href='http://parking.fullerton.edu' target='_blank'>http://parking.fullerton.edu</a></p>",
+      "image": "http://www.fullerton.edu/campusmap/_resources/images/parking.jpg",
+      "imageAlt": "Parking and Transportation Office",
+      "center": {
+        "lat": 33.884991,
+        "lng": -117.889451
+      },
+      "radius": 30
+    },
+
+    {
+      "title": "Residence Halls",
+      "description": "<p>Located in this complex:</p><ul><li>Cobb Residence Hall - Phase I</li><li>Student Housing - Phase II</li></ul>",
+      "image": "http://www.fullerton.edu/campusmap/_resources/images/residence-hall.jpg",
+      "imageAlt": "Residence Halls",
+      "center": {
+        "lat": 33.885984,
+        "lng": -117.882177
+      },
+      "radius": 40
+    },
+
+    {
+      "title": "Pollak Library",
+      "description": "<p><a href='http://library.fullerton.edu' target='_blank'>Pollak Library website</a></p><p>Located in this building:</p><ul><li><a href='http://www.fullerton.edu/it/services/titancard/' target='_blank'>Titan Card Services</a></li><li><a href='http://www.fullerton.edu/it/services/atc/' target='_blank'>Academic Technology Center</a></li><li><a href='http://www.fullerton.edu/it/students/sgc/' target='_blank'>Student Genius Corner</a></li><li><a href='https://dsfsrvr.fullerton.edu/DSF' target='_blank'>Digital Print Service</a></li></ul>",
+      "image": "http://www.fullerton.edu/campusmap/_resources/images/pollak-library.jpg",
+      "imageAlt": "Pollak Library",
+      "center": {
+        "lat": 33.8814145,
+        "lng": -117.885361
+      },
+      "radius": 50
+    },
+
+    {
+      "title": "Ruby Gerontology Center",
+      "description": "<p>Located in this building:</p><ul><li><a href='http://hss.fullerton.edu/gerontology/' target='_blank'>Department of Gerontology</a></li><li><a href='http://olli.fullerton.edu/' target='_blank'>Osher Lifelong Learning Institute (OLLI)</a></li></ul>",
+      "image": "http://www.fullerton.edu/campusmap/_resources/images/ruby-gerontology.jpg",
+      "imageAlt": "Ruby Gerontology Center",
+      "center": {
+        "lat": 33.8836387,
+        "lng": -117.8832579
+      },
+      "radius": 20
+    },
+
+    {
+      "title": "Student Health and Counseling Center",
+      "description": "<p>657-278-2800</p><p><a href='http://www.fullerton.edu/shcc/' target='_blank'>fullerton.edu/shcc</a></p>",
+      "image": "http://www.fullerton.edu/campusmap/_resources/images/student-health.jpg",
+      "imageAlt": "Student Health and Counseling Center",
+      "center": {
+        "lat": 33.8831842,
+        "lng": -117.8842642
+      },
+      "radius": 50
+    },
+
+    {
+      "title": "Steven G. Mihaylo Hall",
+      "description": "<p>Located in this building:</p><ul><li><a href='http://business.fullerton.edu' target='_blank'>Mihaylo College of Business and Economics</a></li></ul>",
+      "image": "http://www.fullerton.edu/campusmap/_resources/images/MCBE.jpg",
+      "imageAlt": "Steven G. Mihaylo Hall",
+      "center": {
+        "lat": 33.8787499,
+        "lng": -117.8833555
+      },
+      "radius": 40
+    },
+
+    {
+      "title": "Student Housing",
+      "description": "<p>Located in this complex:</p><ul><li><a href='http://www.fullerton.edu/housing/' target='_blank'>Housing and Residence Life</a></li><li>Gastronome</li><li>Student Housing - Phase III</li></ul>",
+      "image": "http://www.fullerton.edu/campusmap/_resources/images/housing.jpg",
+      "imageAlt": "Student Housing",
+      "center": {
+        "lat": 33.88367,
+        "lng": -117.88221
+      },
+      "radius": 40
+    },
+
+    {
+      "title": "Student Recreation Center",
+      "description": "<p>Phone: 657-278-7529</p><p><a href='http://asi.fullerton.edu/src/index.asp' target='_blank'>http://asi.fullerton.edu/src/index.asp</a></p>",
+      "image": "http://www.fullerton.edu/campusmap/_resources/images/rec-center.jpg",
+      "imageAlt": "Student Recreation Center",
+      "center": {
+        "lat": 33.8831,
+        "lng": -117.88753
+      },
+      "radius": 30
+    },
+
+    {
+      "title": "Titan Gymnasium",
+      "description": "<p>Located in this building:</p><ul><li><a href='http://fullertontitans.com/sports/m-baskbl/index' target='_blank'>Men's Basketball</a></li><li><a href='http://fullertontitans.com/sports/w-baskbl/index' target='_blank'>Women's Basketball</a></li></ul>",
+      "image": "http://www.fullerton.edu/campusmap/_resources/images/titan-gym.jpg",
+      "imageAlt": "Titan Gymnasium",
+      "center": {
+        "lat": 33.88313,
+        "lng": -117.88604
+      },
+      "radius": 30
+    },
+
+    {
+      "title": "Titan House",
+      "description": "<p>Located in this building:</p><ul><li><a href='http://www.fullertontitans.com' target='_blank'>Titan Athletics</a></li></ul>",
+      "image": "http://www.fullerton.edu/campusmap/_resources/images/titan-house.jpg",
+      "imageAlt": "Titan House",
+      "center": {
+        "lat": 33.8838522,
+        "lng": -117.8841658
+      },
+      "radius": 20
+    },
+
+    {
+      "title": "Titan Stadium",
+      "description": "",
+      "image": "http://www.fullerton.edu/campusmap/_resources/images/titan-stadium.jpg",
+      "imageAlt": "Titan Stadium",
+      "center": {
+        "lat": 33.8866106,
+        "lng": -117.8869113
+      },
+      "radius": 60
+    },
+
+    {
+      "title": "Titan Student Union",
+      "description": "<p>Located in this building:</p><ul><li>Alumni Lounge</li><li><a href='http://asi.fullerton.edu' target='_blank'>Associated Students, Inc.</a></li><li>ATM kiosks</li><li>Food Court</li><li>Garden Cafe</li><li>Portola Pavilion A-B</li><li>Titan Bowling Center</li><li>Titan Little Theater</li><li><a href='http://www.asi.fullerton.edu/services/titanPrideCenter.asp' target='_blank'>Titan Pride Center</a></li></ul>",
+      "image": "http://www.fullerton.edu/campusmap/_resources/images/TSU.jpg",
+      "imageAlt": "Titan Student Union",
+      "center": {
+        "lat": 33.8817976,
+        "lng": -117.8884800
+      },
+      "radius": 60
+    },
+
+    {
+      "title": "University Hall",
+      "description": "<p>Located in this building:</p><ul><li><a href='http://www.fullerton.edu/aac/' target='_blank'>Academic Advisement Center</a></li><li><a href='http://www.fullerton.edu/tours/' target='_blank'>Campus Tour</a></li><li><a href='http://fullerton.edu/financialaid/' target='_blank'>Financial Aid</a></li><li><a href='http://www.fullerton.edu/DSS/' target='_blank'>Disabled Student Services</a></li><li><a href='http://www.fullerton.edu/international/' target='_blank'>International Student Services</a></li><li><a href='http://www.fullerton.edu/deanofstudents/nsp/' target='_blank'>New Student Programs</a></li><li><a href='http://www.fullerton.edu/studyabroad/' target='_blank'>Study Abroad</a></li><li><a href='http://www.fullerton.edu/testing/' target='_blank'>Testing Center</a></li><li><a href='http://fullerton.edu/veterans/' target='_blank'>Veterans Student Services</a></li></ul>",
+      "image": "http://www.fullerton.edu/campusmap/_resources/images/UH.jpg",
+      "imageAlt": "University Hall",
+      "center": {
+        "lat": 33.8796662,
+        "lng": -117.8841377
+      },
+      "radius": 30
+    },
+
+    {
+      "title": "University Police",
+      "description": "<p>Phone: 657-278-2525</p><p><a href='http://police.fullerton.edu/' target='_blank'>http://police.fullerton.edu/</a></p>",
+      "image": "http://www.fullerton.edu/campusmap/_resources/images/police.jpg",
+      "imageAlt": "University Police",
+      "center": {
+        "lat": 33.8830979,
+        "lng": -117.8894005
+      },
+      "radius": 20
+    },
+
+    {
+      "title": "Visual Arts",
+      "description": "<p>Located in this complex:</p><ul><li><a href='http://www.fullerton.edu/arts' target='_blank'>College of the Arts</a></li><li><a href='http://www.fullerton.edu/arts/art/' target='_blank'>Department of Visual Arts</a></li></ul>",
+      "image": "http://www.fullerton.edu/campusmap/_resources/images/vis-art.jpg",
+      "imageAlt": "Visual Arts",
+      "center": {
+        "lat": 33.8807217,
+        "lng": -117.8889763
+      },
+      "radius": 60
+    },
+
+    {
+      "title": "Eastside Parking Structure",
+      "description": "<p><a href='http://parking.fullerton.edu/parkinglotcounts/mobile.aspx' target='_blank'>Parking Space Availability</a></p>",
+      "image": "http://www.fullerton.edu/campusmap/_resources/images/eastside-parking.jpg",
+      "imageAlt": "Eastside Parking Structure",
+      "center": {
+        "lat": 33.880288,
+        "lng": -117.881725
+      },
+      "radius": 40
+    },
+
+    {
+      "title": "Nutwood Parking Structure",
+      "description": "<p><a href='http://parking.fullerton.edu/parkinglotcounts/mobile.aspx' target='_blank'>Parking Space Availability</a></p>",
+      "image": "http://www.fullerton.edu/campusmap/_resources/images/nutwood-parking.jpg",
+      "imageAlt": "Nutwood Parking Structure",
+      "center": {
+        "lat": 33.8790293,
+        "lng": -117.8885204
+      },
+      "radius": 60
+    },
+
+    {
+      "title": "State College Parking Structure",
+      "description": "<p><a href='http://parking.fullerton.edu/parkinglotcounts/mobile.aspx' target='_blank'>Parking Space Availability</a></p>",
+      "image": "http://www.fullerton.edu/campusmap/_resources/images/state-college-parking.jpg",
+      "imageAlt": "State College Parking Structure",
+      "center": {
+        "lat": 33.8830553,
+        "lng": -117.8886705
+      },
+      "radius": 40
+    },
+
+    {
+      "title": "Fullerton Arboretum",
+      "description": "",
+      "image": "",
+      "imageAlt": "",
+      "center": {
+        "lat": 33.8872799,
+        "lng": -117.8833914
+      },
+      "radius": 70
+    }
+
+  ]
+}
