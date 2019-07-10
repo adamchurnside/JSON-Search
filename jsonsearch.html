@@ -14,21 +14,26 @@
 </html>
 <script type="text/javascript">
     $(document).ready(function () {
+        
+        // load JSON file
+        var locations = $.getJSON('locations.json'); 
 
-        var locations = $.getJSON('locations.json'); // add this somewhere global
-
+        // fire on key up
         $('#txt-search').keyup(function () {
-
+            // set your search field
             var searchField = $('#txt-search').val();
-            var regExp = new RegExp(searchField, "i");
-            locations.then(function (data) { // change this one line
+            // set your reg exp
+            var regExp = new RegExp(searchField, "i"); 
+            locations.then(function (data) {
                 var result = ""
+                // loop through locations
                 $.each(data.locations, function (key, val) {
-
+                    // build mark up result
                     if (val.title.search(regExp) != -1) {
                         result += '<p>' + val.title; '</p>';
                     }
                 });
+                // output result
                 $('#filter-records').html(result);
             });
         });
